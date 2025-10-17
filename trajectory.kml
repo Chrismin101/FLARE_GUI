@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <kml xmlns="http://www.opengis.net/kml/2.2">
+    <Document>
+      <name>Trajectory Points</name>
+      <Style id="pointStyle">
+        <IconStyle>
+          <scale>1.0</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/placemark_circle.png</href>
+          </Icon>
+        </IconStyle>
+      </Style>
+    
+      <Placemark>
+        <name>Point 1</name>
+        <styleUrl>#pointStyle</styleUrl>
+        <Point>
+          <coordinates>-75.6972,45.4215,70</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Point 2</name>
+        <styleUrl>#pointStyle</styleUrl>
+        <Point>
+          <coordinates>-75.69725,45.42155,150</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Point 3</name>
+        <styleUrl>#pointStyle</styleUrl>
+        <Point>
+          <coordinates>-75.69730,45.42160,300</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Point 4</name>
+        <styleUrl>#pointStyle</styleUrl>
+        <Point>
+          <coordinates>-75.69735,45.42165,500</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Point 5</name>
+        <styleUrl>#pointStyle</styleUrl>
+        <Point>
+          <coordinates>-75.69740,45.42170,800</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Point 6</name>
+        <styleUrl>#pointStyle</styleUrl>
+        <Point>
+          <coordinates>-75.69745,45.42175,1200</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Point 7</name>
+        <styleUrl>#pointStyle</styleUrl>
+        <Point>
+          <coordinates>-75.69750,45.42180,1600</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Point 8</name>
+        <styleUrl>#pointStyle</styleUrl>
+        <Point>
+          <coordinates>-75.69755,45.42185,1800</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Point 9</name>
+        <styleUrl>#pointStyle</styleUrl>
+        <Point>
+          <coordinates>-75.69760,45.42190,1900</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Point 10</name>
+        <styleUrl>#pointStyle</styleUrl>
+        <Point>
+          <coordinates>-75.69765,45.42195,1850</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Point 11</name>
+        <styleUrl>#pointStyle</styleUrl>
+        <Point>
+          <coordinates>-75.69770,45.42200,1600</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Point 12</name>
+        <styleUrl>#pointStyle</styleUrl>
+        <Point>
+          <coordinates>-75.69775,45.42205,1200</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Point 13</name>
+        <styleUrl>#pointStyle</styleUrl>
+        <Point>
+          <coordinates>-75.69780,45.42210,800</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Point 14</name>
+        <styleUrl>#pointStyle</styleUrl>
+        <Point>
+          <coordinates>-75.69785,45.42215,400</coordinates>
+        </Point>
+      </Placemark>
+
+      <Placemark>
+        <name>Point 15</name>
+        <styleUrl>#pointStyle</styleUrl>
+        <Point>
+          <coordinates>-75.69790,45.42220,100</coordinates>
+        </Point>
+      </Placemark></Document>
+    </kml>
+    
